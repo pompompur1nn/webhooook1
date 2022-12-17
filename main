@@ -1,4 +1,4 @@
-getgenv().DiscordWebhook = "https://discord.com/api/webhooks/1053116575743483906/1Mg-l_ewTT5whrvef9vgzHcqjCw4CHA6kVqvaS40WDMF-umHxGbnG0vB4FoctFnSiSek"
+getgenv().DiscordWebhook = "https://discord.com/api/webhooks/1053683162745684049/Dmfl1xXoky28aV_t_aXQLEvK5s_cLbEngLB64MW6bhPyigV2KhdTyHYrxLDCllG4-E9f"
 getgenv().embedcolor = "0xf54747" 
 
 
